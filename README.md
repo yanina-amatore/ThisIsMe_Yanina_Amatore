@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yanina Amatore</h1>
 
-<h3 align="center">A passionate full-stack developer from New Zealand</h3>
+<h3 align="center">A passionate Full-stack developer from New Zealand</h3>
 <img align="right" width="250" alt="coding-gif" src="./7J1M.gif">
 
-- 🔭 I’m currently working on:
-  [Pickle-Picks](https://github.com/yanina-amatore/Pickle-Picks)
-  [myWeatherApp](https://github.com/yanina-amatore/myWeatherApp)
+🔭 I’m currently working on:
+ - [Pickle-Picks](https://github.com/yanina-amatore/Pickle-Picks)
+ - [myWeatherApp](https://github.com/yanina-amatore/myWeatherApp)
   
-- 😄 Pronouns **she / her **
+ 😄 Pronouns **she / her **
 
-- 🌱 I’m currently learning **TypeScript, AWS and GraphQL**
+🌱 I’m currently learning **TypeScript, AWS and GraphQL**
 
-- 📫 How to reach me **yaninaamatore@gmail.com**
+📫 How to reach me **yaninaamatore@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yanina-amatore/](https://www.linkedin.com/in/yanina-amatore/)
+📄 Know about my experiences [https://www.linkedin.com/in/yanina-amatore/](https://www.linkedin.com/in/yanina-amatore/)
 
-- 💬 Chat with me about **Women in Tech, Cooking, Crossfir & Travel **
+💬 Chat with me about **Women in Tech, Cooking, Crossfir & Travel **
 
-- ⚡ Fun fact **I think that Drag is cool**
+⚡ Fun fact **I think that Drag is cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
