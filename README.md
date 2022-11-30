@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yanina Amatore</h1>
+<h1 align="center">Hola 👋, I'm Yanina Amatore</h1>
 
-<h3 align="center">A passionate Full-stack developer from New Zealand</h3>
+<h3 align="center">A passionate Full-stack developer from Aotearoa/New Zealand</h3>
 <img align="right" width="250" alt="coding-gif" src="./7J1M.gif">
 
 🔭 I’m currently working on:
@@ -17,7 +17,7 @@
 
 💬 Chat with me about **Women in Tech, Cooking, Crossfit & Travel **
 
-⚡ Fun fact **I think that Drag is cool**
+⚡ Fun fact **I think Drag is cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
