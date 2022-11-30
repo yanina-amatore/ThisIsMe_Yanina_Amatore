@@ -15,7 +15,7 @@
 
 📄 Know about my experiences [https://www.linkedin.com/in/yanina-amatore/](https://www.linkedin.com/in/yanina-amatore/)
 
-💬 Chat with me about **Women in Tech, Cooking, Crossfir & Travel **
+💬 Chat with me about **Women in Tech, Cooking, Crossfit & Travel **
 
 ⚡ Fun fact **I think that Drag is cool**
 
