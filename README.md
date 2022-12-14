@@ -4,8 +4,8 @@
 <img align="right" width="250" alt="coding-gif" src="./7J1M.gif">
 
 🔭 I’m currently working on:
- - [Pickle-Picks](https://github.com/yanina-amatore/Pickle-Picks)
- - [myWeatherApp](https://github.com/yanina-amatore/myWeatherApp)
+ - [Pickle-Picks](https://github.com/yanina-amatore/Pickle-Picks) - to be deployed soon 😄
+ - [myWeatherApp](https://www.https://myweatherapp.up.railway.app/) - Check out the repo in [GitHub](https://github.com/yanina-amatore/myWeatherApp) 
   
  😄 Pronouns **she / her **
 
