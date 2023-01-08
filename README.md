@@ -9,7 +9,7 @@
   
  😄 Pronouns **she / her **
 
-🌱 I’m currently learning **TypeScript, AWS and GraphQL**
+🌱 I’m currently learning **TypeScript & AWS **
 
 📫 How to reach me **yaninaamatore@gmail.com**
 
