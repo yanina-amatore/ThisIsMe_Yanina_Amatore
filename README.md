@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Yanina Amatore</h1>
 
-<h3 align="center">A passionate Full-stack developer from Aotearoa/New Zealand</h3>
+<h3 align="center">A curious App developer in Aotearoa/New Zealand</h3>
 <img align="right" width="250" alt="coding-gif" src="./7J1M.gif">
 
 🔭 I’m currently working on:
@@ -9,7 +9,7 @@
   
  😄 Pronouns **she / her **
 
-🌱 I’m currently learning **TypeScript & AWS **
+🌱 I’m currently learning **TypeScript & Cloud Computing AWS & Azure **
 
 📫 How to reach me **yaninaamatore@gmail.com**
 
