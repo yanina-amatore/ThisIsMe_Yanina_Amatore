@@ -6,13 +6,13 @@
   
  😄 Pronouns **she / her **
 
-🌱 I’m currently learning **TypeScript & Teact & Azure **
+🌱 I’m currently learning **TypeScript & React **
 
 📫 How to reach me **yaninaamatore@gmail.com**
 
 📄 Know about my experiences [https://www.linkedin.com/in/yanina-amatore/](https://www.linkedin.com/in/yanina-amatore/)
 
-💬 Chat with me about **Women in Tech, Cooking, Crossfit & Travel **
+💬 Chat with me about **Women in tech, cooking, fitness & travel **
 
 ⚡ Fun fact **I think Drag is cool**
 
