@@ -6,7 +6,7 @@
   
  😄 Pronouns **she / her **
 
-🌱 I’m currently learning **TypeScript & React **
+🌱 I’m currently practicing **JavaScript/React and C# /.NET**
 
 📫 How to reach me **yaninaamatore@gmail.com**
 
@@ -14,7 +14,7 @@
 
 💬 Chat with me about **Women in tech, cooking, fitness & travel **
 
-⚡ Fun fact **I think Drag is cool**
+⚡ Fun fact **I love NZ pies and one of my hobbies is cooking them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
